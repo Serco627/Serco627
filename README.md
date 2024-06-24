@@ -1,7 +1,6 @@
 # Hello World
-
 ## Welcome to my Github profile!
----
+
 ## About me
 I'm Sercan, an enthusiastic beginner in the world of web development.
 
