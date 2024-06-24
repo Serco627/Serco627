@@ -4,7 +4,7 @@
 ## About me
 I'm Sercan, an enthusiastic beginner in the world of web development.
 
-[This is a link to a funny meme](https://www.delicious.com.au/food-files/gallery/27-of-the-funniest-food-memes/rp8qaoht)
+[My LinkedIn profile (coming soon)](https://de.linkedin.com/?src=go-pa&trk=sem-ga_campid.17342682713_asid.148803897556_crid.657308124612_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9042518&mcid=6935667189886640128&cid=&gad_source=1&gclid=Cj0KCQjwsuSzBhCLARIsAIcdLm6gOowBcFKYI-MJEkprGLhh3EecZdrFEQGq5g7NtSB32jWe-UDO2_0aAgRTEALw_wcB&gclsrc=aw.ds)
 
 
 ### I like:
@@ -13,7 +13,7 @@ I'm Sercan, an enthusiastic beginner in the world of web development.
 - music
 
 
-## 🛠  Technologies and tools I'm learning in the next weeks
+## 🛠  Here are some things I'm currently learning or plan to learn:
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
