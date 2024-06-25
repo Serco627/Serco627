@@ -5,6 +5,8 @@
 ## About me
 I'm Sercan, an enthusiastic beginner in the world of web development.
 
+With a solid background in management, I have developed strong teamwork skills and expertise in optimizing processes. During my time in this field, I became interested in web and software development. Motivated by this interest, I began learning to code through various courses and self-study, and I am currently completing the Full Stack Web Developer bootcamp at neue Fische. After finishing the course, I am focused on transitioning to a career in web development and finding a role where I can apply my new skills and continue to grow.
+
 My core values **health, personal growth** and **joy** are central to me and reflect in my professional actions.  I strive to continuously learn and evolve, both personally and professionally.  
 🌿 📚 😊
 
