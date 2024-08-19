@@ -11,7 +11,7 @@ My core values **health, personal growth** and **joy** are central to me and ref
 🌿 📚 😊
 
 
-[My LinkedIn profile (coming soon)](https://de.linkedin.com/?src=go-pa&trk=sem-ga_campid.17342682713_asid.148803897556_crid.657308124612_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9042518&mcid=6935667189886640128&cid=&gad_source=1&gclid=Cj0KCQjwsuSzBhCLARIsAIcdLm6gOowBcFKYI-MJEkprGLhh3EecZdrFEQGq5g7NtSB32jWe-UDO2_0aAgRTEALw_wcB&gclsrc=aw.ds)
+[My LinkedIn profile](https://www.linkedin.com/in/sercan-sebil/)
 
 
 ### I like:
